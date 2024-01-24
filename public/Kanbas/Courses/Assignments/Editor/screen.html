@@ -1,0 +1,123 @@
+<html>
+
+<head></head>
+
+<body>
+    <table>
+        <tbody>
+            <tr>
+                <td valign="top">
+                    <ul>
+                        <li><a href="/Kanbas/Account/Profile/screen.html"> Account</a></li>
+                        <li><a href="#">Dashboard</a></li>
+                        <li><a href="/Kanbas/Courses/Home/screen.html">Courses</a></li>
+                        <li><a href="#">Calendar</a></li>
+                        <li><a href="#">Inbox</a></li>
+                        <li><a href="#">History</a></li>
+                        <li><a href="#">Studio</a></li>
+                        <li><a href="#">Commons</a></li>
+                        <li><a href="#">Help</a></li>
+                    </ul>
+                </td>
+                <td valign="top">
+                    <ul>
+                        <li><a href="/Kanbas/Courses/Home/screen.html"> Home</a></li>
+                        <li><a href="#"> Modules</a></li>
+                        <li><a href="#"> Piazza</a></li>
+                        <li><a href="/Kanbas/Courses/Grades/screen.html"> Grades</a></li>
+                        <li><a href="/Kanbas/Courses/Assignments/screen.html"> Assignments</a></li>
+                        <li><a href="#"> Quizzes</a></li>
+                        <li><a href="#"> People</a></li>
+                        <li><a href="#"> Discussions</a></li>
+                        <li><a href="#"> Announcements</a></li>
+                        <li><a href="#"> Pages</a></li>
+                        <li><a href="#"> Files</a>
+                      </ul>
+                </td>
+                <td valign="top">
+                    <ul>
+                        <select>
+                            <option>Speed Grader</option>
+                            <option>Duplicate</option>
+                            <option>Delete</option>
+                            <option>Move To...</option>
+                            <option>Send To...</option>
+                            <option>Copy To...</option>
+                            <option>Share to Commons</option>
+                        </select>
+
+                        <h3>Assignment Name</h3>
+
+                        <form id="text-field">
+                            <input type="text" id="text-fields-assignment" placeholder="A1"
+                                value="A1 - Beginning to Build Kanbas with HTML" /><br />
+                        </form>
+
+                        <form id="textarea">
+                            <textarea cols="30" rows="2">This is the assignment description</textarea>
+                        </form>
+
+                        <label for="text-fields-points"> Points</label> <br />
+                        <input type="number" id="text-fields-points" placeholder="100" value="100" /><br /><br />
+
+                        <label for="select-assignment-group"> Assignment Group </label><br />
+                        <select id="select-assignment-group">
+                            <option selected value="Assignments">ASSIGNMENTS</option>
+                            <option value="Quizzes">QUIZZES</option>
+                            <option value="Exams">EXAMS</option>
+                            <option value="Project">Project</option>
+                        </select><br /><br />
+
+                        <label for="select-grade-display"> Display Grade as </label><br />
+                        <select id="select-grade-display">
+                            <option value="Percentage" selected>Percentage</option>
+                            <option value="VAL2">Value 2</option>
+                            <option value="VAL3">Value 3</option>
+                        </select><br /><br />
+
+                        <label for="select-submission-type"> Submission Type </label><br />
+                        <select id="select-submission-type">
+                            <option value="Online" selected>Online</option>
+                            <option value="In Person">In Person</option>
+                        </select><br /><br />
+
+                        <label>Online Entry Options</label><br />
+                        <input type="checkbox" value="Text Entry" name="check-entry" id="chkbox-text-entry" />
+                        <label for="chkbox-comedy">Text Entry</label> <br />
+
+                        <input type="checkbox" value="URL" name="check-entry" id="chkbox-url" />
+                        <label for="chkbox-url">Website URL</label> <br />
+
+                        <input type="checkbox" value="Recording" name="check-entry" id="chkbox-recording" />
+                        <label for="chkbox-recording">Media Recording</label> <br />
+
+                        <input type="checkbox" value="Annotation" name="check-entry" id="chkbox-student-annotation" />
+                        <label for="chkbox-student-annotation">Student Annotation</label><br />
+
+                        <input type="checkbox" value="File" name="check-entry" id="chkbox-file" />
+                        <label for="chkbox-file">File Uploads</label><br />
+
+                        <h3>Assign</h3>
+                        <label for="text-fields-assign"> Assign To</label><br />
+                        <input type="text" id="text-fields-assign" placeholder="Everyone"
+                            value="Everyone" /><br /><br />
+
+                        <label for="text-fields-due"> Due </label><br />
+                        <input type="date" id="text-fields-due" value="2000-01-21" /><br /><br />
+
+                        <label for="text-fields-available"> Available From </label><br />
+                        <input type="date" id="text-fields-available" value="2000-01-21" /><br /><br />
+
+                        <label for="text-fields-until"> Until </label><br />
+                        <input type="date" id="text-fields-until" value="2000-01-21" /><br /><br />
+
+                        <a href="/Kanbas/Courses/Assignments/screen.html"><button>Cancel</button></a>
+                        <a href="/Kanbas/Courses/Assignments/screen.html"><button>Save</button></a>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
