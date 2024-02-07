@@ -12,3 +12,17 @@
     background-color: green;
     color: white;
 }
+
+.hamburger {
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+  }
+
+  .chevron {
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+    float: right;
+  }
