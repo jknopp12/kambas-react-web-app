@@ -13,6 +13,16 @@
     color: white;
 }
 
-.breadcrumb {
-    padding: 0 .5rem;
+.hamburger {
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+  }
+
+  .chevron {
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+    float: right;
   }

@@ -39,17 +39,15 @@
   background-color: red;
   color: white;
   text-align: center;
-  padding: 5px 24px;
-  border-radius: 4px;
+  padding: 3px;
   border: 1px solid black;
 }
 
 .button-white {
   background-color: whitesmoke;
   color: black;
-  text-align: center;
-  padding: 5px 24px;
-  border-radius: 4px;
+  text-align: left;
+  padding: 3px;
   border: 1px solid black;
 }
 
