@@ -12,3 +12,7 @@
     background-color: green;
     color: white;
 }
+
+.breadcrumb {
+    padding: 0 .5rem;
+  }
