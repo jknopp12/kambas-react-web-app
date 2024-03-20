@@ -7,14 +7,9 @@ import Home from "./Home";
 import Assignments from "./Assignments";
 import "./Home/index.css";
 
-
-function Courses() {
+function Courses({ courses }: { courses: any[]; }) {
     const { courseId } = useParams();
     const course = courses.find((course) => course._id === courseId);
-    const { pathname } = useLocation();
-    function breadcrumb() {
-        console.log(pathname.substring(pathname.lastIndexOf('/') + 1));
-    }
     return (
         <div>
             <h3 className="breadcrumb"> < HiMiniBars3 /> {course?._id} </h3>

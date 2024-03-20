@@ -1,0 +1,40 @@
+.delete-button {
+    background-color: rgb(221, 29, 29);
+    color: white;
+    text-align: center;
+    float: right;
+    margin-left: 5px;
+  }
+
+  .edit-button {
+    background-color: whitesmoke;
+    color: black;
+    float: right;
+    border: 1px solid lightgray;
+    margin-left: 5px;
+  }
+
+  .button-white {
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+    padding: 8px 10px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+.text {
+  width: 500px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.green-btn {
+  background-color: green;
+  color: white;
+  float: right;
+  border: 1px solid darkgreen;
+  margin-left: 5px;
+}

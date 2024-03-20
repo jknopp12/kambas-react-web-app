@@ -32,7 +32,7 @@
       ]
     },
     {
-      "_id": "M102",
+      "_id": "M103",
       "name": "Week 1 - Course Introduction, Syllabus, Agenda, Etc.",
       "description": "Understanding basic principles of coding and into to the Dr. Racket Programming Language.",
       "course": "CS2500",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "_id": "M102",
+      "_id": "M104",
       "name": "Week 2 - Reviewing Data Types",
       "description": "Understanding data types to set a foundation for the course.",
       "course": "CS2500",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "_id": "M102",
+      "_id": "M105",
       "name": "Week 3 - Starting to Write Code!",
       "description": "Understanding basic principles of coding and beginning to write code.",
       "course": "CS2500",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "_id": "M103",
+      "_id": "M106",
       "name": "Week 1: Welcome!",
       "description": "Intro to Course",
       "course": "HIST1100",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "_id": "M103",
+      "_id": "M107",
       "name": "Week 2: The Very Beginning - Early History",
       "description": "Review of early history",
       "course": "HIST1100",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "_id": "M202",
+      "_id": "M208",
       "name": "Welcome to Bostonography! - Course Introduction",
       "description": "Course Intro",
       "course": "INSH2102",
@@ -182,20 +182,20 @@
       ]
     },
     {
-      "_id": "M203",
+      "_id": "M209",
       "name": "The Revolutionary War - History, Historical Figures, and the Freedom Trail",
       "description": "Boston's relevance in the revolution",
       "course": "INSH2102"
     },
     {
-      "_id": "M204",
+      "_id": "M210",
       "name": "Urban Geography - Understand Boston's Neighborhoods",
       "description": "understanding the geography of boston",
       "course": "INSH2102"
     },
 
     {
-      "_id": "M2310",
+      "_id": "M2311",
       "name": "Week 1: Welcome!",
       "description": "Intro to American History",
       "course": "HIST2310",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "_id": "M2310",
+      "_id": "M2312",
       "name": "Week 2: Early American History",
       "description": "Review of early history",
       "course": "HIST2310",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "_id": "M2310",
+      "_id": "M2313",
       "name": "Week 3: Leading up to the Revolution",
       "description": "Review of early history",
       "course": "HIST2310",
@@ -269,7 +269,7 @@
 
 
     {
-      "_id": "M23300",
+      "_id": "M23314",
       "name": "WEEK 1: INTRO TO COURSE MATERIALS",
       "description": "Intro to Calculus",
       "course": "MATH3300",
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "_id": "M23300",
+      "_id": "M23315",
       "name": "WEEK 2: DERIVATIVES",
       "description": "derivatives",
       "course": "MATH3300",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "_id": "M23300",
+      "_id": "M23316",
       "name": "WEEK 3: INTEGRATION",
       "description": "integration",
       "course": "MATH3300",
@@ -348,7 +348,7 @@
     },
 
     {
-      "_id": "M1560",
+      "_id": "M1517",
       "name": "Intro to Statistics",
       "description": "Intro to stats",
       "course": "MATH1560",
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "_id": "M1560",
+      "_id": "M1518",
       "name": "Measures of Central Tendency",
       "description": "central tendency",
       "course": "MATH1560",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "_id": "M1560",
+      "_id": "M1519",
       "name": "Measures of Variability",
       "description": "variability",
       "course": "MATH1560",
@@ -427,7 +427,7 @@
     },
 
     {
-      "_id": "M1000",
+      "_id": "M1020",
       "name": "Welcome to Intro to Life Sciences!",
       "description": "Intro to life science",
       "course": "SCIE1000",
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "_id": "M1000",
+      "_id": "M1021",
       "name": "All About Plants",
       "description": "plants",
       "course": "SCIE1000",
@@ -479,7 +479,7 @@
       ]
     },
     {
-      "_id": "M1000",
+      "_id": "M1022",
       "name": "All About Animals",
       "description": "animals",
       "course": "SCIE1000",
@@ -506,7 +506,7 @@
     },
 
     {
-      "_id": "M1111",
+      "_id": "M1123",
       "name": "TIME TO FIND A CO-OP! - Introduction to the Course",
       "description": "Intro to course",
       "course": "CS1111",
@@ -538,7 +538,7 @@
       ]
     },
     {
-      "_id": "M1111",
+      "_id": "M1124",
       "name": "Creating a 'Good' Resume",
       "description": "resume",
       "course": "CS1111",
@@ -564,7 +564,7 @@
       ]
     },
     {
-      "_id": "M1111",
+      "_id": "M1125",
       "name": "All About Interviewing",
       "description": "animals",
       "course": "CS1111",
